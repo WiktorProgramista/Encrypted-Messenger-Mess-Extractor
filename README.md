@@ -54,8 +54,8 @@ pip install filedate
    │   ├── dcfe3dfd-ad6e-477c-b38d-dc625a7a4f92.jpeg
    │   ├── 34747aea-b22b-4aef-bbe7-ecf54f88c6e4.mp4
    │   └── ...
-   ├── Michalina Knaś_30.json
-   ├── Adam Chlebowski_26.json
+   ├── Michalina K.json
+   ├── Adam Ch.json
    └── ...
    ```
 
@@ -115,7 +115,7 @@ Skrypt automatycznie tworzy następujące foldery (jeśli nie istnieją):
 ## Przykład działania
 
 Wejście:
-- `Michalina Knaś_30.json` – zawiera wiadomość z timestampem `1747568151510` i `uri: "./media/dcfe3dfd-ad6e-477c-b38d-dc625a7a4f92.jpeg"`
+- `Michalina K.json` – zawiera wiadomość z timestampem `1747568151510` i `uri: "./media/dcfe3dfd-ad6e-477c-b38d-dc625a7a4f92.jpeg"`
 
 Wyjście:
 - `output/photos/Michalina Knaś_30_20250518223551_abc12345.jpeg`  
