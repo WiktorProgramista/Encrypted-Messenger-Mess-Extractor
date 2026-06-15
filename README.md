@@ -1,4 +1,4 @@
-Oto plik `README.md`, który opisuje wymagania, instalację, uruchomienie oraz działanie skryptu.
+
 
 ```markdown
 # Media Extractor z czatów Facebook Messenger
